@@ -46,6 +46,8 @@ Note3: the vertical scroll bar's width is 12px in edge13, 15px in chrome53, ff49
 Fixture
 ==============
 
+
+```css
 .div1{
     width: 500px;
     height: 300px;
@@ -70,7 +72,7 @@ Fixture
     overflow: auto;
     transform: scale(0.5);
 }
-
+```
 
 Each div contains 10 paragraph of lorem ipsum text.
 
